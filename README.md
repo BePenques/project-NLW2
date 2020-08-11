@@ -22,7 +22,6 @@ e entrar em contato diretamente com o professor.
 ##  Tecnologias
 
 * CSS (com telas responsivas)
-* PHP
 * Javascript
 * React
 * TypeScript
